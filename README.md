@@ -17,4 +17,4 @@ The R script called run_analysis.R that does the following.
 4. Appropriately labels the data set with descriptive variable names. 
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
-To run the R script, one would need to first set the working directory. The script is divided into two parts: first part will collect and clean the data set and the second part will perform calculations on the clean data set. In both parts, the script will write final results in a text files named as tidy3.txt.
+To run the R script, one would need to first set the working directory. The script is divided into two parts: first part will collect and clean the data set and the second part will perform calculations on the clean data set. In both parts, the script will write final results in a text files named as tidy.txt.
